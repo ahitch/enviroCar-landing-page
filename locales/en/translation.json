@@ -30,7 +30,7 @@
 
     "platform.txt1": "enviroCar is",
     "platform.txt2": "an open Citizen Science Platform",
-    "platform.txt3": "for traffic and environment.",
+    "platform.txt3": "for mobility and environment.",
     "platform.contains": "The platform comprises",
     "platform.one": "an Android App for collecting car sensor data",
     "platform.two": "tools for analyzing the tracks",
@@ -39,7 +39,7 @@
     "envirocar_platform" : "assets/enviroCar-en.png",
 
     "platform.app": "The enviroCar App",
-    "platform.app1": "The enviroCar App collects real car sensor data while driving.",
+    "platform.app1": "The enviroCar App collects real car sensor data while you drive.",
 
     "ana1": "Analysis",
     "ana.txt1": "Use the ",
